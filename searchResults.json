@@ -1,0 +1,2288 @@
+[
+  {
+    "refs": [
+      "luk 14:1",
+      "1co 2:6",
+      "1co 2:8"
+    ],
+    "lemma": "ἄρχων",
+    "strong": "G07580",
+    "morph": "Gr,N,,,,,GMP,",
+    "alignedText": "of the rulers",
+    "targetText": "ruler",
+    "targetAlignment": "of the rulers",
+    "sourceAlignment": "ἀρχόντων",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἀρχόντων",
+    "count": 3
+  },
+  {
+    "refs": [
+      "1co 15:24"
+    ],
+    "lemma": "ἀρχή",
+    "strong": "G07460",
+    "morph": "Gr,N,,,,,AFS,",
+    "alignedText": "rule",
+    "targetText": "ruler",
+    "targetAlignment": "rule",
+    "sourceAlignment": "ἀρχὴν",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἀρχὴν",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1ti 5:17"
+    ],
+    "lemma": "προΐστημι",
+    "strong": "G42910",
+    "morph": "Gr,V,PEA,NMP,",
+    "alignedText": "having ruled",
+    "targetText": "ruler",
+    "targetAlignment": "having ruled",
+    "sourceAlignment": "προεστῶτες",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "προεστῶτες",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1ti 6:15"
+    ],
+    "lemma": "δυνάστης",
+    "strong": "G14130",
+    "morph": "Gr,N,,,,,NMS,",
+    "alignedText": "Sovereign",
+    "targetText": "ruler",
+    "targetAlignment": "Sovereign",
+    "sourceAlignment": "Δυνάστης",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "Δυνάστης",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1ti 6:15"
+    ],
+    "lemma": "κυριεύω",
+    "strong": "G29610",
+    "morph": "Gr,V,PPA,GMP,",
+    "alignedText": "of lords",
+    "targetText": "ruler",
+    "targetAlignment": "of lords",
+    "sourceAlignment": "κυριευόντων",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "κυριευόντων",
+    "count": 1
+  },
+  {
+    "refs": [
+      "2co 1:24"
+    ],
+    "lemma": "κυριεύω",
+    "strong": "G29610",
+    "morph": "Gr,V,IPA1,,P,",
+    "alignedText": "we lord it over",
+    "targetText": "ruler",
+    "targetAlignment": "we lord it over",
+    "sourceAlignment": "κυριεύομεν",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "κυριεύομεν",
+    "count": 1
+  },
+  {
+    "refs": [
+      "mat 20:25",
+      "luk 23:35",
+      "luk 24:20",
+      "jhn 7:26",
+      "act 3:17",
+      "act 4:26",
+      "act 13:27",
+      "rom 13:3"
+    ],
+    "lemma": "ἄρχων",
+    "strong": "G07580",
+    "morph": "Gr,N,,,,,NMP,",
+    "alignedText": "rulers",
+    "targetText": "ruler",
+    "targetAlignment": "rulers",
+    "sourceAlignment": "ἄρχοντες",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἄρχοντες",
+    "count": 8
+  },
+  {
+    "refs": [
+      "luk 23:13",
+      "act 4:5",
+      "act 16:19"
+    ],
+    "lemma": "ἄρχων",
+    "strong": "G07580",
+    "morph": "Gr,N,,,,,AMP,",
+    "alignedText": "rulers",
+    "targetText": "ruler",
+    "targetAlignment": "rulers",
+    "sourceAlignment": "ἄρχοντας",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἄρχοντας",
+    "count": 3
+  },
+  {
+    "refs": [
+      "act 4:8"
+    ],
+    "lemma": "ἄρχων",
+    "strong": "G07580",
+    "morph": "Gr,N,,,,,NMP,",
+    "alignedText": "Rulers",
+    "targetText": "ruler",
+    "targetAlignment": "Rulers",
+    "sourceAlignment": "ἄρχοντες",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἄρχοντες",
+    "count": 1
+  },
+  {
+    "refs": [
+      "act 7:27",
+      "act 7:35"
+    ],
+    "lemma": "ἄρχων",
+    "strong": "G07580",
+    "morph": "Gr,N,,,,,AMS,",
+    "alignedText": "a ruler",
+    "targetText": "ruler",
+    "targetAlignment": "a ruler",
+    "sourceAlignment": "ἄρχοντα",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἄρχοντα",
+    "count": 2
+  },
+  {
+    "refs": [
+      "act 14:5"
+    ],
+    "lemma": "ἄρχων",
+    "strong": "G07580",
+    "morph": "Gr,N,,,,,DMP,",
+    "alignedText": "rulers",
+    "targetText": "ruler",
+    "targetAlignment": "rulers",
+    "sourceAlignment": "ἄρχουσιν",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἄρχουσιν",
+    "count": 1
+  },
+  {
+    "refs": [
+      "act 23:5"
+    ],
+    "lemma": "ἄρχων",
+    "strong": "G07580",
+    "morph": "Gr,N,,,,,AMS,",
+    "alignedText": "of a ruler",
+    "targetText": "ruler",
+    "targetAlignment": "of a ruler",
+    "sourceAlignment": "ἄρχοντα",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἄρχοντα",
+    "count": 1
+  },
+  {
+    "refs": [
+      "rom 8:38",
+      "col 1:16"
+    ],
+    "lemma": "ἀρχή",
+    "strong": "G07460",
+    "morph": "Gr,N,,,,,NFP,",
+    "alignedText": "governments",
+    "targetText": "ruler",
+    "targetAlignment": "governments",
+    "sourceAlignment": "ἀρχαὶ",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἀρχαὶ",
+    "count": 2
+  },
+  {
+    "refs": [
+      "col 2:10"
+    ],
+    "lemma": "ἀρχή",
+    "strong": "G07460",
+    "morph": "Gr,N,,,,,GFS,",
+    "alignedText": "of rule",
+    "targetText": "ruler",
+    "targetAlignment": "of rule",
+    "sourceAlignment": "ἀρχῆς",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἀρχῆς",
+    "count": 1
+  },
+  {
+    "refs": [
+      "luk 12:11",
+      "col 2:15"
+    ],
+    "lemma": "ἀρχή",
+    "strong": "G07460",
+    "morph": "Gr,N,,,,,AFP,",
+    "alignedText": "rulers",
+    "targetText": "ruler",
+    "targetAlignment": "rulers",
+    "sourceAlignment": "ἀρχὰς",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἀρχὰς",
+    "count": 2
+  },
+  {
+    "refs": [
+      "col 3:15"
+    ],
+    "lemma": "βραβεύω",
+    "strong": "G10180",
+    "morph": "Gr,V,MPA3,,S,",
+    "alignedText": "let rule",
+    "targetText": "ruler",
+    "targetAlignment": "let rule",
+    "sourceAlignment": "βραβευέτω",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "βραβευέτω",
+    "count": 1
+  },
+  {
+    "refs": [
+      "eph 1:21"
+    ],
+    "lemma": "ἀρχή",
+    "strong": "G07460",
+    "morph": "Gr,N,,,,,GFS,",
+    "alignedText": "rule",
+    "targetText": "ruler",
+    "targetAlignment": "rule",
+    "sourceAlignment": "ἀρχῆς",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἀρχῆς",
+    "count": 1
+  },
+  {
+    "refs": [
+      "eph 2:2"
+    ],
+    "lemma": "ἄρχων",
+    "strong": "G07580",
+    "morph": "Gr,N,,,,,AMS,",
+    "alignedText": "ruler",
+    "targetText": "ruler",
+    "targetAlignment": "ruler",
+    "sourceAlignment": "ἄρχοντα",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἄρχοντα",
+    "count": 1
+  },
+  {
+    "refs": [
+      "eph 3:10"
+    ],
+    "lemma": "ἀρχή",
+    "strong": "G07460",
+    "morph": "Gr,N,,,,,DFP,",
+    "alignedText": "to the rulers",
+    "targetText": "ruler",
+    "targetAlignment": "to the rulers",
+    "sourceAlignment": "ἀρχαῖς",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἀρχαῖς",
+    "count": 1
+  },
+  {
+    "refs": [
+      "eph 6:12"
+    ],
+    "lemma": "ἀρχή",
+    "strong": "G07460",
+    "morph": "Gr,N,,,,,AFP,",
+    "alignedText": "rulers",
+    "targetText": "ruler",
+    "targetAlignment": "rulers",
+    "sourceAlignment": "ἀρχάς",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἀρχάς",
+    "count": 1
+  },
+  {
+    "refs": [
+      "luk 8:41",
+      "luk 18:18",
+      "jhn 3:1"
+    ],
+    "lemma": "ἄρχων",
+    "strong": "G07580",
+    "morph": "Gr,N,,,,,NMS,",
+    "alignedText": "a ruler",
+    "targetText": "ruler",
+    "targetAlignment": "a ruler",
+    "sourceAlignment": "ἄρχων",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἄρχων",
+    "count": 3
+  },
+  {
+    "refs": [
+      "jhn 7:48",
+      "jhn 12:42"
+    ],
+    "lemma": "ἄρχων",
+    "strong": "G07580",
+    "morph": "Gr,N,,,,,GMP,",
+    "alignedText": "rulers",
+    "targetText": "ruler",
+    "targetAlignment": "rulers",
+    "sourceAlignment": "ἀρχόντων",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἀρχόντων",
+    "count": 2
+  },
+  {
+    "refs": [
+      "jhn 12:31",
+      "jhn 14:30",
+      "jhn 16:11",
+      "rev 1:5"
+    ],
+    "lemma": "ἄρχων",
+    "strong": "G07580",
+    "morph": "Gr,N,,,,,NMS,",
+    "alignedText": "ruler",
+    "targetText": "ruler",
+    "targetAlignment": "ruler",
+    "sourceAlignment": "ἄρχων",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἄρχων",
+    "count": 4
+  },
+  {
+    "refs": [
+      "luk 1:52"
+    ],
+    "lemma": "δυνάστης",
+    "strong": "G14130",
+    "morph": "Gr,N,,,,,AMP,",
+    "alignedText": "rulers",
+    "targetText": "ruler",
+    "targetAlignment": "rulers",
+    "sourceAlignment": "δυνάστας",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "δυνάστας",
+    "count": 1
+  },
+  {
+    "refs": [
+      "mat 9:34",
+      "mat 12:24",
+      "mrk 3:22",
+      "luk 11:15"
+    ],
+    "lemma": "ἄρχων",
+    "strong": "G07580",
+    "morph": "Gr,N,,,,,DMS,",
+    "alignedText": "ruler",
+    "targetText": "ruler",
+    "targetAlignment": "ruler",
+    "sourceAlignment": "ἄρχοντι",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἄρχοντι",
+    "count": 4
+  },
+  {
+    "refs": [
+      "luk 12:58"
+    ],
+    "lemma": "ἄρχων",
+    "strong": "G07580",
+    "morph": "Gr,N,,,,,AMS,",
+    "alignedText": "a magistrate",
+    "targetText": "ruler",
+    "targetAlignment": "a magistrate",
+    "sourceAlignment": "ἄρχοντα",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἄρχοντα",
+    "count": 1
+  },
+  {
+    "refs": [
+      "luk 20:20"
+    ],
+    "lemma": "ἀρχή",
+    "strong": "G07460",
+    "morph": "Gr,N,,,,,DFS,",
+    "alignedText": "to the rule",
+    "targetText": "ruler",
+    "targetAlignment": "to the rule",
+    "sourceAlignment": "ἀρχῇ",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἀρχῇ",
+    "count": 1
+  },
+  {
+    "refs": [
+      "luk 22:25"
+    ],
+    "lemma": "κυριεύω",
+    "strong": "G29610",
+    "morph": "Gr,V,IPA3,,P,",
+    "alignedText": "lord it over",
+    "targetText": "ruler",
+    "targetAlignment": "lord it over",
+    "sourceAlignment": "κυριεύουσιν",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "κυριεύουσιν",
+    "count": 1
+  },
+  {
+    "refs": [
+      "mat 9:18"
+    ],
+    "lemma": "ἄρχων",
+    "strong": "G07580",
+    "morph": "Gr,N,,,,,NMS,",
+    "alignedText": "a official",
+    "targetText": "ruler",
+    "targetAlignment": "a official",
+    "sourceAlignment": "ἄρχων",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἄρχων",
+    "count": 1
+  },
+  {
+    "refs": [
+      "mat 9:23"
+    ],
+    "lemma": "ἄρχων",
+    "strong": "G07580",
+    "morph": "Gr,N,,,,,GMS,",
+    "alignedText": "of the official",
+    "targetText": "ruler",
+    "targetAlignment": "of the official",
+    "sourceAlignment": "ἄρχοντος",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἄρχοντος",
+    "count": 1
+  },
+  {
+    "refs": [
+      "mrk 10:42"
+    ],
+    "lemma": "ἄρχω",
+    "strong": "G07570",
+    "morph": "Gr,V,NPA,,,,,",
+    "alignedText": "rulers",
+    "targetText": "ruler",
+    "targetAlignment": "rulers",
+    "sourceAlignment": "ἄρχειν",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἄρχειν",
+    "count": 1
+  },
+  {
+    "refs": [
+      "rom 6:9"
+    ],
+    "lemma": "κυριεύω",
+    "strong": "G29610",
+    "morph": "Gr,V,IPA3,,S,",
+    "alignedText": "is lord over",
+    "targetText": "ruler",
+    "targetAlignment": "is lord over",
+    "sourceAlignment": "κυριεύει",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "κυριεύει",
+    "count": 1
+  },
+  {
+    "refs": [
+      "rom 6:12"
+    ],
+    "lemma": "βασιλεύω",
+    "strong": "G09360",
+    "morph": "Gr,V,MPA3,,S,",
+    "alignedText": "do let rule",
+    "targetText": "ruler",
+    "targetAlignment": "do let rule",
+    "sourceAlignment": "βασιλευέτω",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "βασιλευέτω",
+    "count": 1
+  },
+  {
+    "refs": [
+      "rom 6:14"
+    ],
+    "lemma": "κυριεύω",
+    "strong": "G29610",
+    "morph": "Gr,V,IFA3,,S,",
+    "alignedText": "must be lord over",
+    "targetText": "ruler",
+    "targetAlignment": "must be lord over",
+    "sourceAlignment": "κυριεύσει",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "κυριεύσει",
+    "count": 1
+  },
+  {
+    "refs": [
+      "rom 7:1"
+    ],
+    "lemma": "κυριεύω",
+    "strong": "G29610",
+    "morph": "Gr,V,IPA3,,S,",
+    "alignedText": "is lord",
+    "targetText": "ruler",
+    "targetAlignment": "is lord",
+    "sourceAlignment": "κυριεύει",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "κυριεύει",
+    "count": 1
+  },
+  {
+    "refs": [
+      "rom 14:9"
+    ],
+    "lemma": "κυριεύω",
+    "strong": "G29610",
+    "morph": "Gr,V,SAA3,,S,",
+    "alignedText": "he might be Lord",
+    "targetText": "ruler",
+    "targetAlignment": "he might be Lord",
+    "sourceAlignment": "κυριεύσῃ",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "κυριεύσῃ",
+    "count": 1
+  },
+  {
+    "refs": [
+      "rom 15:12"
+    ],
+    "lemma": "ἄρχω",
+    "strong": "G07570",
+    "morph": "Gr,V,NPA,,,,,",
+    "alignedText": "to rule over",
+    "targetText": "ruler",
+    "targetAlignment": "to rule over",
+    "sourceAlignment": "ἄρχειν",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἄρχειν",
+    "count": 1
+  },
+  {
+    "refs": [
+      "tit 3:1"
+    ],
+    "lemma": "ἀρχή",
+    "strong": "G07460",
+    "morph": "Gr,N,,,,,DFP,",
+    "alignedText": "to rulers",
+    "targetText": "ruler",
+    "targetAlignment": "to rulers",
+    "sourceAlignment": "ἀρχαῖς",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "ἀρχαῖς",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1ki 1:35"
+    ],
+    "lemma": "נָגִיד",
+    "strong": "H5057",
+    "morph": "He,Ncmsa",
+    "alignedText": "leader",
+    "targetText": "ruler",
+    "targetAlignment": "leader",
+    "sourceAlignment": "נָגִ֔יד",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "נָגִ֔יד",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1ki 4:2"
+    ],
+    "lemma": "שַׂר",
+    "strong": "d:H8269",
+    "morph": "He,Td:Ncmpa",
+    "alignedText": "the officials",
+    "targetText": "ruler",
+    "targetAlignment": "the officials",
+    "sourceAlignment": "הַ⁠שָּׂרִ֖ים",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "הַ⁠שָּׂרִ֖ים",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1ki 5:16"
+    ],
+    "lemma": "שַׂר",
+    "strong": "m:H8269",
+    "morph": "He,R:Ncmpc",
+    "alignedText": "from the officials of",
+    "targetText": "ruler",
+    "targetAlignment": "from the officials of",
+    "sourceAlignment": "מִ⁠שָּׂרֵ֨י",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "מִ⁠שָּׂרֵ֨י",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1ki 11:34"
+    ],
+    "lemma": "נָשִׂיא",
+    "strong": "H5387a",
+    "morph": "He,Ncmsa",
+    "alignedText": "as a leader",
+    "targetText": "ruler",
+    "targetAlignment": "as a leader",
+    "sourceAlignment": "נָשִׂ֣יא",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "נָשִׂ֣יא",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1ki 14:7"
+    ],
+    "lemma": "נָגִיד",
+    "strong": "H5057",
+    "morph": "He,Ncmsa",
+    "alignedText": "as a leader",
+    "targetText": "ruler",
+    "targetAlignment": "as a leader",
+    "sourceAlignment": "נָגִ֔יד",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "נָגִ֔יד",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1ki 16:2"
+    ],
+    "lemma": "נָגִיד",
+    "strong": "H5057",
+    "morph": "He,Ncmsa",
+    "alignedText": "as leader",
+    "targetText": "ruler",
+    "targetAlignment": "as leader",
+    "sourceAlignment": "נָגִ֔יד",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "נָגִ֔יד",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1sa 5:8"
+    ],
+    "lemma": "סֶרֶן",
+    "strong": "H5633a",
+    "morph": "He,Ncmpc",
+    "alignedText": "the rulers of",
+    "targetText": "ruler",
+    "targetAlignment": "the rulers of",
+    "sourceAlignment": "סַרְנֵ֨י",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "סַרְנֵ֨י",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1sa 5:11",
+      "1sa 6:4"
+    ],
+    "lemma": "סֶרֶן",
+    "strong": "H5633a",
+    "morph": "He,Ncmpc",
+    "alignedText": "the rulers of",
+    "targetText": "ruler",
+    "targetAlignment": "the rulers of",
+    "sourceAlignment": "סַרְנֵ֣י",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "סַרְנֵ֣י",
+    "count": 2
+  },
+  {
+    "refs": [
+      "1sa 6:4"
+    ],
+    "lemma": "סֶרֶן",
+    "strong": "c:l:H5633a",
+    "morph": "He,C:R:Ncmpc:Sp2mp",
+    "alignedText": "and for your rulers",
+    "targetText": "ruler",
+    "targetAlignment": "and for your rulers",
+    "sourceAlignment": "וּ⁠לְ⁠סַרְנֵי⁠כֶֽם",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וּ⁠לְ⁠סַרְנֵי⁠כֶֽם",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1sa 6:12",
+      "1sa 29:2"
+    ],
+    "lemma": "סֶרֶן",
+    "strong": "c:H5633a",
+    "morph": "He,C:Ncmpc",
+    "alignedText": "And the rulers of",
+    "targetText": "ruler",
+    "targetAlignment": "And the rulers of",
+    "sourceAlignment": "וְ⁠סַרְנֵ֤י",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וְ⁠סַרְנֵ֤י",
+    "count": 2
+  },
+  {
+    "refs": [
+      "1sa 6:16"
+    ],
+    "lemma": "סֶרֶן",
+    "strong": "H5633a",
+    "morph": "He,Ncmpc",
+    "alignedText": "rulers of",
+    "targetText": "ruler",
+    "targetAlignment": "rulers of",
+    "sourceAlignment": "סַרְנֵֽי",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "סַרְנֵֽי",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1sa 6:18"
+    ],
+    "lemma": "סֶרֶן",
+    "strong": "d:H5633a",
+    "morph": "He,Td:Ncmpa",
+    "alignedText": "rulers",
+    "targetText": "ruler",
+    "targetAlignment": "rulers",
+    "sourceAlignment": "הַ⁠סְּרָנִ֔ים",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "הַ⁠סְּרָנִ֔ים",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1sa 7:7"
+    ],
+    "lemma": "סֶרֶן",
+    "strong": "H5633a",
+    "morph": "He,Ncmpc",
+    "alignedText": "the rulers of",
+    "targetText": "ruler",
+    "targetAlignment": "the rulers of",
+    "sourceAlignment": "סַרְנֵֽי",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "סַרְנֵֽי",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1sa 8:15"
+    ],
+    "lemma": "סָרִיס",
+    "strong": "l:H5631",
+    "morph": "He,R:Ncmpc:Sp3ms",
+    "alignedText": "to his officials",
+    "targetText": "ruler",
+    "targetAlignment": "to his officials",
+    "sourceAlignment": "לְ⁠סָרִיסָ֖י⁠ו",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "לְ⁠סָרִיסָ֖י⁠ו",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1sa 9:16"
+    ],
+    "lemma": "נָגִיד",
+    "strong": "l:H5057",
+    "morph": "He,R:Ncmsa",
+    "alignedText": "to be ruler",
+    "targetText": "ruler",
+    "targetAlignment": "to be ruler",
+    "sourceAlignment": "לְ⁠נָגִיד֙",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "לְ⁠נָגִיד֙",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1sa 10:1"
+    ],
+    "lemma": "נָגִיד",
+    "strong": "l:H5057",
+    "morph": "He,R:Ncmsa",
+    "alignedText": "to be ruler",
+    "targetText": "ruler",
+    "targetAlignment": "to be ruler",
+    "sourceAlignment": "לְ⁠נָגִֽיד",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "לְ⁠נָגִֽיד",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1sa 13:14"
+    ],
+    "lemma": "נָגִיד",
+    "strong": "l:H5057",
+    "morph": "He,R:Ncmsa",
+    "alignedText": "to be leader",
+    "targetText": "ruler",
+    "targetAlignment": "to be leader",
+    "sourceAlignment": "לְ⁠נָגִיד֙",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "לְ⁠נָגִיד֙",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1sa 25:30"
+    ],
+    "lemma": "נָגִיד",
+    "strong": "l:H5057",
+    "morph": "He,R:Ncmsa",
+    "alignedText": "for a ruler",
+    "targetText": "ruler",
+    "targetAlignment": "for a ruler",
+    "sourceAlignment": "לְ⁠נָגִ֖יד",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "לְ⁠נָגִ֖יד",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1sa 29:6"
+    ],
+    "lemma": "סֶרֶן",
+    "strong": "d:H5633a",
+    "morph": "He,Td:Ncmpa",
+    "alignedText": "the rulers",
+    "targetText": "ruler",
+    "targetAlignment": "the rulers",
+    "sourceAlignment": "הַ⁠סְּרָנִ֖ים",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "הַ⁠סְּרָנִ֖ים",
+    "count": 1
+  },
+  {
+    "refs": [
+      "1sa 29:7"
+    ],
+    "lemma": "סֶרֶן",
+    "strong": "H5633a",
+    "morph": "He,Ncmpc",
+    "alignedText": "the rulers of",
+    "targetText": "ruler",
+    "targetAlignment": "the rulers of",
+    "sourceAlignment": "סַרְנֵ֥י",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "סַרְנֵ֥י",
+    "count": 1
+  },
+  {
+    "refs": [
+      "dan 2:10"
+    ],
+    "lemma": "שַׁלִּיט",
+    "strong": "c:H7990",
+    "morph": "Ar,C:Aamsa",
+    "alignedText": "and powerful",
+    "targetText": "ruler",
+    "targetAlignment": "and powerful",
+    "sourceAlignment": "וְ⁠שַׁלִּ֔יט",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וְ⁠שַׁלִּ֔יט",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ecc 6:2"
+    ],
+    "lemma": "שָׁלַט",
+    "strong": "H7980",
+    "morph": "He,Vhi3ms:Sp3ms",
+    "alignedText": "does enable him",
+    "targetText": "ruler",
+    "targetAlignment": "does enable him",
+    "sourceAlignment": "יַשְׁלִיטֶ֤⁠נּוּ",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "יַשְׁלִיטֶ֤⁠נּוּ",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ecc 8:9"
+    ],
+    "lemma": "שָׁלַט",
+    "strong": "H7980",
+    "morph": "He,Vqp3ms",
+    "alignedText": "has dominion",
+    "targetText": "ruler",
+    "targetAlignment": "has dominion",
+    "sourceAlignment": "שָׁלַ֧ט",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שָׁלַ֧ט",
+    "count": 1
+  },
+  {
+    "refs": [
+      "est 1:22"
+    ],
+    "lemma": "שָׂרַר",
+    "strong": "H8323",
+    "morph": "He,Vqrmsa",
+    "alignedText": "ruling",
+    "targetText": "ruler",
+    "targetAlignment": "ruling",
+    "sourceAlignment": "שֹׂרֵ֣ר",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שֹׂרֵ֣ר",
+    "count": 1
+  },
+  {
+    "refs": [
+      "exo 2:14"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmsc",
+    "alignedText": "the ruler",
+    "targetText": "ruler",
+    "targetAlignment": "the ruler",
+    "sourceAlignment": "שַׂ֤ר",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שַׂ֤ר",
+    "count": 1
+  },
+  {
+    "refs": [
+      "exo 18:21",
+      "exo 18:25"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmpc",
+    "alignedText": "leaders of",
+    "targetText": "ruler",
+    "targetAlignment": "leaders of",
+    "sourceAlignment": "שָׂרֵ֤י",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שָׂרֵ֤י",
+    "count": 2
+  },
+  {
+    "refs": [
+      "exo 18:21",
+      "exo 18:25"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmpc",
+    "alignedText": "leaders of",
+    "targetText": "ruler",
+    "targetAlignment": "leaders of",
+    "sourceAlignment": "שָׂרֵ֣י",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שָׂרֵ֣י",
+    "count": 2
+  },
+  {
+    "refs": [
+      "exo 18:21",
+      "exo 18:25"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmpc",
+    "alignedText": "leaders of",
+    "targetText": "ruler",
+    "targetAlignment": "leaders of",
+    "sourceAlignment": "שָׂרֵ֥י",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שָׂרֵ֥י",
+    "count": 2
+  },
+  {
+    "refs": [
+      "exo 18:21",
+      "exo 18:25"
+    ],
+    "lemma": "שַׂר",
+    "strong": "c:H8269",
+    "morph": "He,C:Ncmpc",
+    "alignedText": "and leaders of",
+    "targetText": "ruler",
+    "targetAlignment": "and leaders of",
+    "sourceAlignment": "וְ⁠שָׂרֵ֥י",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וְ⁠שָׂרֵ֥י",
+    "count": 2
+  },
+  {
+    "refs": [
+      "exo 22:28"
+    ],
+    "lemma": "נָשִׂיא",
+    "strong": "c:H5387a",
+    "morph": "He,C:Ncmsa",
+    "alignedText": "a ruler of",
+    "targetText": "ruler",
+    "targetAlignment": "a ruler of",
+    "sourceAlignment": "וְ⁠נָשִׂ֥יא",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וְ⁠נָשִׂ֥יא",
+    "count": 1
+  },
+  {
+    "refs": [
+      "exo 34:31"
+    ],
+    "lemma": "נָשִׂיא",
+    "strong": "d:H5387a",
+    "morph": "He,Td:Ncmpa",
+    "alignedText": "the leaders",
+    "targetText": "ruler",
+    "targetAlignment": "the leaders",
+    "sourceAlignment": "הַ⁠נְּשִׂאִ֖ים",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "הַ⁠נְּשִׂאִ֖ים",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ezk 19:14"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "l:H4910",
+    "morph": "He,R:Vqc",
+    "alignedText": "to rule",
+    "targetText": "ruler",
+    "targetAlignment": "to rule",
+    "sourceAlignment": "לִ⁠מְשׁ֑וֹל",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "לִ⁠מְשׁ֑וֹל",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ezr 1:8"
+    ],
+    "lemma": "נָשִׂיא",
+    "strong": "d:H5387a",
+    "morph": "He,Td:Ncmsa",
+    "alignedText": "the ruler",
+    "targetText": "ruler",
+    "targetAlignment": "the ruler",
+    "sourceAlignment": "הַ⁠נָּשִׂ֖יא",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "הַ⁠נָּשִׂ֖יא",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ezr 4:9"
+    ],
+    "lemma": "אֲפַרְסְכַי",
+    "strong": "c:H0671b",
+    "morph": "Ar,C:Ncmpd:Td",
+    "alignedText": "and the rulers",
+    "targetText": "ruler",
+    "targetAlignment": "and the rulers",
+    "sourceAlignment": "וַ⁠אֲפַרְסַתְכָיֵ֞⁠א",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וַ⁠אֲפַרְסַתְכָיֵ֞⁠א",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ezr 4:20"
+    ],
+    "lemma": "שַׁלִּיט",
+    "strong": "c:H7990",
+    "morph": "Ar,C:Aampa",
+    "alignedText": "even rulers",
+    "targetText": "ruler",
+    "targetAlignment": "even rulers",
+    "sourceAlignment": "וְ⁠שַׁ֨לִּיטִ֔ין",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וְ⁠שַׁ֨לִּיטִ֔ין",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ezr 5:6"
+    ],
+    "lemma": "אֲפַרְסְכַי",
+    "strong": "H0671a",
+    "morph": "Ar,Ncmpd:Td",
+    "alignedText": "the officials",
+    "targetText": "ruler",
+    "targetAlignment": "the officials",
+    "sourceAlignment": "אֲפַ֨רְסְכָיֵ֔⁠א",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "אֲפַ֨רְסְכָיֵ֔⁠א",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ezr 6:6"
+    ],
+    "lemma": "אֲפַרְסְכַי",
+    "strong": "H0671a",
+    "morph": "Ar,Ncmpd:Td",
+    "alignedText": "the officials",
+    "targetText": "ruler",
+    "targetAlignment": "the officials",
+    "sourceAlignment": "אֲפַרְסְכָיֵ֔⁠א",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "אֲפַרְסְכָיֵ֔⁠א",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ezr 7:28"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmpc",
+    "alignedText": "the officials of",
+    "targetText": "ruler",
+    "targetAlignment": "the officials of",
+    "sourceAlignment": "שָׂרֵ֥י",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שָׂרֵ֥י",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ezr 8:24"
+    ],
+    "lemma": "שַׂר",
+    "strong": "m:H8269",
+    "morph": "He,R:Ncmpc",
+    "alignedText": "from the leaders of",
+    "targetText": "ruler",
+    "targetAlignment": "from the leaders of",
+    "sourceAlignment": "מִ⁠שָּׂרֵ֥י",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "מִ⁠שָּׂרֵ֥י",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ezr 8:25"
+    ],
+    "lemma": "שַׂר",
+    "strong": "c:H8269",
+    "morph": "He,C:Ncmpc:Sp3ms",
+    "alignedText": "and his officials",
+    "targetText": "ruler",
+    "targetAlignment": "and his officials",
+    "sourceAlignment": "וְ⁠שָׂרָ֔י⁠ו",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וְ⁠שָׂרָ֔י⁠ו",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ezr 8:29"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmpc",
+    "alignedText": "the leaders of",
+    "targetText": "ruler",
+    "targetAlignment": "the leaders of",
+    "sourceAlignment": "שָׂרֵ֨י",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שָׂרֵ֨י",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ezr 8:29"
+    ],
+    "lemma": "שַׂר",
+    "strong": "c:H8269",
+    "morph": "He,C:Ncmpc",
+    "alignedText": "and the leaders of",
+    "targetText": "ruler",
+    "targetAlignment": "and the leaders of",
+    "sourceAlignment": "וְ⁠שָׂרֵֽי",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וְ⁠שָׂרֵֽי",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ezr 9:1",
+      "ezr 10:8"
+    ],
+    "lemma": "שַׂר",
+    "strong": "d:H8269",
+    "morph": "He,Td:Ncmpa",
+    "alignedText": "the leaders",
+    "targetText": "ruler",
+    "targetAlignment": "the leaders",
+    "sourceAlignment": "הַ⁠שָּׂרִים֙",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "הַ⁠שָּׂרִים֙",
+    "count": 2
+  },
+  {
+    "refs": [
+      "ezr 9:2"
+    ],
+    "lemma": "שַׂר",
+    "strong": "d:H8269",
+    "morph": "He,Td:Ncmpa",
+    "alignedText": "the leaders",
+    "targetText": "ruler",
+    "targetAlignment": "the leaders",
+    "sourceAlignment": "הַ⁠שָּׂרִ֣ים",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "הַ⁠שָּׂרִ֣ים",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ezr 9:2"
+    ],
+    "lemma": "סָגָן",
+    "strong": "c:d:H5461",
+    "morph": "He,C:Td:Ncmpa",
+    "alignedText": "and the rulers",
+    "targetText": "ruler",
+    "targetAlignment": "and the rulers",
+    "sourceAlignment": "וְ⁠הַ⁠סְּגָנִ֗ים",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וְ⁠הַ⁠סְּגָנִ֗ים",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ezr 10:5"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmpc",
+    "alignedText": "the leaders of",
+    "targetText": "ruler",
+    "targetAlignment": "the leaders of",
+    "sourceAlignment": "שָׂרֵי֩",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שָׂרֵי֩",
+    "count": 1
+  },
+  {
+    "refs": [
+      "ezr 10:14"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmpc:Sp1cp",
+    "alignedText": "our leaders",
+    "targetText": "ruler",
+    "targetAlignment": "our leaders",
+    "sourceAlignment": "שָׂ֠רֵי⁠נוּ",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שָׂ֠רֵי⁠נוּ",
+    "count": 1
+  },
+  {
+    "refs": [
+      "gen 1:16"
+    ],
+    "lemma": "מֶמְשָׁלָה",
+    "strong": "l:H4475",
+    "morph": "He,R:Ncbsc",
+    "alignedText": "to rule",
+    "targetText": "ruler",
+    "targetAlignment": "to rule",
+    "sourceAlignment": "לְ⁠מֶמְשֶׁ֣לֶת",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "לְ⁠מֶמְשֶׁ֣לֶת",
+    "count": 1
+  },
+  {
+    "refs": [
+      "gen 1:18"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "c:l:H4910",
+    "morph": "He,C:R:Vqc",
+    "alignedText": "and to rule",
+    "targetText": "ruler",
+    "targetAlignment": "and to rule",
+    "sourceAlignment": "וְ⁠לִ⁠מְשֹׁל֙",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וְ⁠לִ⁠מְשֹׁל֙",
+    "count": 1
+  },
+  {
+    "refs": [
+      "gen 21:22",
+      "gen 21:32",
+      "gen 26:26"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmsc",
+    "alignedText": "the commander of",
+    "targetText": "ruler",
+    "targetAlignment": "the commander of",
+    "sourceAlignment": "שַׂר",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שַׂר",
+    "count": 3
+  },
+  {
+    "refs": [
+      "gen 23:6"
+    ],
+    "lemma": "נָשִׂיא",
+    "strong": "H5387a",
+    "morph": "He,Ncmsc",
+    "alignedText": "a prince",
+    "targetText": "ruler",
+    "targetAlignment": "a prince",
+    "sourceAlignment": "נְשִׂ֨יא",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "נְשִׂ֨יא",
+    "count": 1
+  },
+  {
+    "refs": [
+      "gen 25:16"
+    ],
+    "lemma": "נָשִׂיא",
+    "strong": "H5387a",
+    "morph": "He,Ncmpa",
+    "alignedText": "rulers",
+    "targetText": "ruler",
+    "targetAlignment": "rulers",
+    "sourceAlignment": "נְשִׂיאִ֖ם",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "נְשִׂיאִ֖ם",
+    "count": 1
+  },
+  {
+    "refs": [
+      "gen 34:2"
+    ],
+    "lemma": "נָשִׂיא",
+    "strong": "H5387a",
+    "morph": "He,Ncmsc",
+    "alignedText": "the ruler of",
+    "targetText": "ruler",
+    "targetAlignment": "the ruler of",
+    "sourceAlignment": "נְשִׂ֣יא",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "נְשִׂ֣יא",
+    "count": 1
+  },
+  {
+    "refs": [
+      "gen 37:36"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmsc",
+    "alignedText": "the chief of",
+    "targetText": "ruler",
+    "targetAlignment": "the chief of",
+    "sourceAlignment": "שַׂ֖ר",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שַׂ֖ר",
+    "count": 1
+  },
+  {
+    "refs": [
+      "gen 39:1",
+      "gen 39:22"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmsc",
+    "alignedText": "the chief of",
+    "targetText": "ruler",
+    "targetAlignment": "the chief of",
+    "sourceAlignment": "שַׂ֤ר",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שַׂ֤ר",
+    "count": 2
+  },
+  {
+    "refs": [
+      "gen 39:21",
+      "gen 40:2",
+      "gen 40:3",
+      "gen 40:20",
+      "gen 40:21",
+      "gen 40:22",
+      "gen 41:10"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmsc",
+    "alignedText": "the chief of",
+    "targetText": "ruler",
+    "targetAlignment": "the chief of",
+    "sourceAlignment": "שַׂ֥ר",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שַׂ֥ר",
+    "count": 7
+  },
+  {
+    "refs": [
+      "gen 39:23"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmsc",
+    "alignedText": "The chief of",
+    "targetText": "ruler",
+    "targetAlignment": "The chief of",
+    "sourceAlignment": "שַׂ֣ר",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שַׂ֣ר",
+    "count": 1
+  },
+  {
+    "refs": [
+      "gen 40:2",
+      "gen 40:4",
+      "gen 40:20",
+      "gen 41:9",
+      "gen 41:10"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmsc",
+    "alignedText": "the chief of",
+    "targetText": "ruler",
+    "targetAlignment": "the chief of",
+    "sourceAlignment": "שַׂ֣ר",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שַׂ֣ר",
+    "count": 5
+  },
+  {
+    "refs": [
+      "gen 40:7"
+    ],
+    "lemma": "סָרִיס",
+    "strong": "H5631",
+    "morph": "He,Ncmpc",
+    "alignedText": "s officials",
+    "targetText": "ruler",
+    "targetAlignment": "s officials",
+    "sourceAlignment": "סְרִיסֵ֣י",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "סְרִיסֵ֣י",
+    "count": 1
+  },
+  {
+    "refs": [
+      "gen 40:9",
+      "gen 40:23"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmsc",
+    "alignedText": "the chief of",
+    "targetText": "ruler",
+    "targetAlignment": "the chief of",
+    "sourceAlignment": "שַֽׂר",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שַֽׂר",
+    "count": 2
+  },
+  {
+    "refs": [
+      "gen 40:16"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmsc",
+    "alignedText": "the chief of",
+    "targetText": "ruler",
+    "targetAlignment": "the chief of",
+    "sourceAlignment": "שַׂר",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שַׂר",
+    "count": 1
+  },
+  {
+    "refs": [
+      "gen 41:12"
+    ],
+    "lemma": "שַׂר",
+    "strong": "l:H8269",
+    "morph": "He,R:Ncmsc",
+    "alignedText": "for the chief of",
+    "targetText": "ruler",
+    "targetAlignment": "for the chief of",
+    "sourceAlignment": "לְ⁠שַׂ֣ר",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "לְ⁠שַׂ֣ר",
+    "count": 1
+  },
+  {
+    "refs": [
+      "gen 42:6"
+    ],
+    "lemma": "שַׁלִּיט",
+    "strong": "d:H7989",
+    "morph": "He,Td:Aamsa",
+    "alignedText": "was the governor",
+    "targetText": "ruler",
+    "targetAlignment": "was the governor",
+    "sourceAlignment": "הַ⁠שַּׁלִּ֣יט",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "הַ⁠שַּׁלִּ֣יט",
+    "count": 1
+  },
+  {
+    "refs": [
+      "gen 45:8"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "c:H4910",
+    "morph": "He,C:Vqrmsa",
+    "alignedText": "and the ruler",
+    "targetText": "ruler",
+    "targetAlignment": "and the ruler",
+    "sourceAlignment": "וּ⁠מֹשֵׁ֖ל",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וּ⁠מֹשֵׁ֖ל",
+    "count": 1
+  },
+  {
+    "refs": [
+      "gen 45:26"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "H4910",
+    "morph": "He,Vqrmsa",
+    "alignedText": "is the ruler",
+    "targetText": "ruler",
+    "targetAlignment": "is the ruler",
+    "sourceAlignment": "מֹשֵׁ֖ל",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "מֹשֵׁ֖ל",
+    "count": 1
+  },
+  {
+    "refs": [
+      "gen 47:6"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmpc",
+    "alignedText": "overseers of",
+    "targetText": "ruler",
+    "targetAlignment": "overseers of",
+    "sourceAlignment": "שָׂרֵ֥י",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שָׂרֵ֥י",
+    "count": 1
+  },
+  {
+    "refs": [
+      "jol 2:17"
+    ],
+    "lemma": "",
+    "strong": "b",
+    "morph": "He,R:Sp3mp",
+    "alignedText": "that mock them",
+    "targetText": "ruler",
+    "targetAlignment": "that mock them",
+    "sourceAlignment": "בָּ֣⁠ם",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "בָּ֣⁠ם",
+    "count": 1
+  },
+  {
+    "refs": [
+      "jos 12:2"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "H4910",
+    "morph": "He,Vqrmsa",
+    "alignedText": "who ruled",
+    "targetText": "ruler",
+    "targetAlignment": "who ruled",
+    "sourceAlignment": "מֹשֵׁ֡ל",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "מֹשֵׁ֡ל",
+    "count": 1
+  },
+  {
+    "refs": [
+      "jos 12:5"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "c:H4910",
+    "morph": "He,C:Vqrmsa",
+    "alignedText": "and who ruled",
+    "targetText": "ruler",
+    "targetAlignment": "and who ruled",
+    "sourceAlignment": "וּ֠⁠מֹשֵׁל",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וּ֠⁠מֹשֵׁל",
+    "count": 1
+  },
+  {
+    "refs": [
+      "jos 13:10"
+    ],
+    "lemma": "מָלַךְ",
+    "strong": "H4427a",
+    "morph": "He,Vqp3ms",
+    "alignedText": "reigned",
+    "targetText": "ruler",
+    "targetAlignment": "reigned",
+    "sourceAlignment": "מָלַ֖ךְ",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "מָלַ֖ךְ",
+    "count": 1
+  },
+  {
+    "refs": [
+      "jos 13:12"
+    ],
+    "lemma": "מָלַךְ",
+    "strong": "H4427a",
+    "morph": "He,Vqp3ms",
+    "alignedText": "reigned",
+    "targetText": "ruler",
+    "targetAlignment": "reigned",
+    "sourceAlignment": "מָלַ֥ךְ",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "מָלַ֥ךְ",
+    "count": 1
+  },
+  {
+    "refs": [
+      "jos 13:21"
+    ],
+    "lemma": "מָלַךְ",
+    "strong": "H4427a",
+    "morph": "He,Vqp3ms",
+    "alignedText": "had reigned",
+    "targetText": "ruler",
+    "targetAlignment": "had reigned",
+    "sourceAlignment": "מָלַ֖ךְ",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "מָלַ֖ךְ",
+    "count": 1
+  },
+  {
+    "refs": [
+      "jos 22:14"
+    ],
+    "lemma": "נָשִׂיא",
+    "strong": "H5387a",
+    "morph": "He,Ncmpa",
+    "alignedText": "leaders",
+    "targetText": "ruler",
+    "targetAlignment": "leaders",
+    "sourceAlignment": "נְשִׂאִים֙",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "נְשִׂאִים֙",
+    "count": 1
+  },
+  {
+    "refs": [
+      "jos 22:14"
+    ],
+    "lemma": "נָשִׂיא",
+    "strong": "H5387a",
+    "morph": "He,Ncmsa",
+    "alignedText": "leader",
+    "targetText": "ruler",
+    "targetAlignment": "leader",
+    "sourceAlignment": "נָשִׂ֨יא",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "נָשִׂ֨יא",
+    "count": 1
+  },
+  {
+    "refs": [
+      "jos 22:14"
+    ],
+    "lemma": "נָשִׂיא",
+    "strong": "H5387a",
+    "morph": "He,Ncmsa",
+    "alignedText": "by leader",
+    "targetText": "ruler",
+    "targetAlignment": "by leader",
+    "sourceAlignment": "נָשִׂ֤יא",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "נָשִׂ֤יא",
+    "count": 1
+  },
+  {
+    "refs": [
+      "jos 22:30"
+    ],
+    "lemma": "נָשִׂיא",
+    "strong": "c:H5387a",
+    "morph": "He,C:Ncmpc",
+    "alignedText": "and the leaders of",
+    "targetText": "ruler",
+    "targetAlignment": "and the leaders of",
+    "sourceAlignment": "וּ⁠נְשִׂיאֵ֨י",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וּ⁠נְשִׂיאֵ֨י",
+    "count": 1
+  },
+  {
+    "refs": [
+      "jos 22:32"
+    ],
+    "lemma": "נָשִׂיא",
+    "strong": "c:d:H5387a",
+    "morph": "He,C:Td:Ncmpa",
+    "alignedText": "and the leaders",
+    "targetText": "ruler",
+    "targetAlignment": "and the leaders",
+    "sourceAlignment": "וְ⁠הַ⁠נְּשִׂיאִ֡ים",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וְ⁠הַ⁠נְּשִׂיאִ֡ים",
+    "count": 1
+  },
+  {
+    "refs": [
+      "neh 2:16"
+    ],
+    "lemma": "סָגָן",
+    "strong": "c:d:H5461",
+    "morph": "He,C:Td:Ncmpa",
+    "alignedText": "Now the prefects",
+    "targetText": "ruler",
+    "targetAlignment": "Now the prefects",
+    "sourceAlignment": "וְ⁠הַ⁠סְּגָנִ֗ים",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וְ⁠הַ⁠סְּגָנִ֗ים",
+    "count": 1
+  },
+  {
+    "refs": [
+      "neh 2:16"
+    ],
+    "lemma": "סָגָן",
+    "strong": "c:l:H5461",
+    "morph": "He,C:Rd:Ncmpa",
+    "alignedText": "or the prefects",
+    "targetText": "ruler",
+    "targetAlignment": "or the prefects",
+    "sourceAlignment": "וְ⁠לַ⁠סְּגָנִ֗ים",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וְ⁠לַ⁠סְּגָנִ֗ים",
+    "count": 1
+  },
+  {
+    "refs": [
+      "neh 4:14",
+      "neh 4:19"
+    ],
+    "lemma": "סָגָן",
+    "strong": "d:H5461",
+    "morph": "He,Td:Ncmpa",
+    "alignedText": "the prefects",
+    "targetText": "ruler",
+    "targetAlignment": "the prefects",
+    "sourceAlignment": "הַ⁠סְּגָנִים֙",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "הַ⁠סְּגָנִים֙",
+    "count": 2
+  },
+  {
+    "refs": [
+      "neh 5:7",
+      "neh 13:11"
+    ],
+    "lemma": "סָגָן",
+    "strong": "d:H5461",
+    "morph": "He,Td:Ncmpa",
+    "alignedText": "the prefects",
+    "targetText": "ruler",
+    "targetAlignment": "the prefects",
+    "sourceAlignment": "הַ⁠סְּגָנִ֔ים",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "הַ⁠סְּגָנִ֔ים",
+    "count": 2
+  },
+  {
+    "refs": [
+      "neh 5:17"
+    ],
+    "lemma": "סָגָן",
+    "strong": "c:d:H5461",
+    "morph": "He,C:Td:Ncmpa",
+    "alignedText": "and the prefects",
+    "targetText": "ruler",
+    "targetAlignment": "and the prefects",
+    "sourceAlignment": "וְ⁠הַ⁠סְּגָנִ֜ים",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וְ⁠הַ⁠סְּגָנִ֜ים",
+    "count": 1
+  },
+  {
+    "refs": [
+      "neh 7:5"
+    ],
+    "lemma": "סָגָן",
+    "strong": "d:H5461",
+    "morph": "He,Td:Ncmpa",
+    "alignedText": "the prefects",
+    "targetText": "ruler",
+    "targetAlignment": "the prefects",
+    "sourceAlignment": "הַ⁠סְּגָנִ֛ים",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "הַ⁠סְּגָנִ֛ים",
+    "count": 1
+  },
+  {
+    "refs": [
+      "neh 9:37"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "H4910",
+    "morph": "He,Vqrmpa",
+    "alignedText": "to be ruling",
+    "targetText": "ruler",
+    "targetAlignment": "to be ruling",
+    "sourceAlignment": "מֹשְׁלִ֤ים",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "מֹשְׁלִ֤ים",
+    "count": 1
+  },
+  {
+    "refs": [
+      "neh 12:40"
+    ],
+    "lemma": "סָגָן",
+    "strong": "d:H5461",
+    "morph": "He,Td:Ncmpa",
+    "alignedText": "the prefects",
+    "targetText": "ruler",
+    "targetAlignment": "the prefects",
+    "sourceAlignment": "הַ⁠סְּגָנִ֖ים",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "הַ⁠סְּגָנִ֖ים",
+    "count": 1
+  },
+  {
+    "refs": [
+      "pro 6:7"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "c:H4910",
+    "morph": "He,C:Vqrmsa",
+    "alignedText": "or ruler",
+    "targetText": "ruler",
+    "targetAlignment": "or ruler",
+    "sourceAlignment": "וּ⁠מֹשֵֽׁל",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וּ⁠מֹשֵֽׁל",
+    "count": 1
+  },
+  {
+    "refs": [
+      "pro 8:16"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmpa",
+    "alignedText": "princes",
+    "targetText": "ruler",
+    "targetAlignment": "princes",
+    "sourceAlignment": "שָׂרִ֣ים",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שָׂרִ֣ים",
+    "count": 1
+  },
+  {
+    "refs": [
+      "pro 8:16"
+    ],
+    "lemma": "שָׂרַר",
+    "strong": "H8323",
+    "morph": "He,Vqi3mp",
+    "alignedText": "rule",
+    "targetText": "ruler",
+    "targetAlignment": "rule",
+    "sourceAlignment": "יָשֹׂ֑רוּ",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "יָשֹׂ֑רוּ",
+    "count": 1
+  },
+  {
+    "refs": [
+      "pro 12:24"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "H4910",
+    "morph": "He,Vqi3fs",
+    "alignedText": "will rule",
+    "targetText": "ruler",
+    "targetAlignment": "will rule",
+    "sourceAlignment": "תִּמְשׁ֑וֹל",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "תִּמְשׁ֑וֹל",
+    "count": 1
+  },
+  {
+    "refs": [
+      "pro 17:2"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "H4910",
+    "morph": "He,Vqi3ms",
+    "alignedText": "will rule over",
+    "targetText": "ruler",
+    "targetAlignment": "will rule over",
+    "sourceAlignment": "יִ֭מְשֹׁל",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "יִ֭מְשֹׁל",
+    "count": 1
+  },
+  {
+    "refs": [
+      "pro 19:10"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "H4910",
+    "morph": "He,Vqc",
+    "alignedText": "to rule",
+    "targetText": "ruler",
+    "targetAlignment": "to rule",
+    "sourceAlignment": "מְשֹׁ֬ל",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "מְשֹׁ֬ל",
+    "count": 1
+  },
+  {
+    "refs": [
+      "pro 22:7"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "H4910",
+    "morph": "He,Vqi3ms",
+    "alignedText": "rules",
+    "targetText": "ruler",
+    "targetAlignment": "rules",
+    "sourceAlignment": "יִמְשׁ֑וֹל",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "יִמְשׁ֑וֹל",
+    "count": 1
+  },
+  {
+    "refs": [
+      "pro 23:1"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "H4910",
+    "morph": "He,Vqrmsa",
+    "alignedText": "with a ruler",
+    "targetText": "ruler",
+    "targetAlignment": "with a ruler",
+    "sourceAlignment": "מוֹשֵׁ֑ל",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "מוֹשֵׁ֑ל",
+    "count": 1
+  },
+  {
+    "refs": [
+      "pro 25:15"
+    ],
+    "lemma": "קָצִין",
+    "strong": "H7101",
+    "morph": "He,Ncmsa",
+    "alignedText": "a commander",
+    "targetText": "ruler",
+    "targetAlignment": "a commander",
+    "sourceAlignment": "קָצִ֑ין",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "קָצִ֑ין",
+    "count": 1
+  },
+  {
+    "refs": [
+      "pro 28:2"
+    ],
+    "lemma": "שַׂר",
+    "strong": "H8269",
+    "morph": "He,Ncmpc:Sp3fs",
+    "alignedText": "are its rulers",
+    "targetText": "ruler",
+    "targetAlignment": "are its rulers",
+    "sourceAlignment": "שָׂרֶ֑י⁠הָ",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "שָׂרֶ֑י⁠הָ",
+    "count": 1
+  },
+  {
+    "refs": [
+      "pro 28:15"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "H4910",
+    "morph": "He,Vqrmsc",
+    "alignedText": "is a ruler",
+    "targetText": "ruler",
+    "targetAlignment": "is a ruler",
+    "sourceAlignment": "מֹשֵׁ֥ל",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "מֹשֵׁ֥ל",
+    "count": 1
+  },
+  {
+    "refs": [
+      "pro 28:16"
+    ],
+    "lemma": "נָגִיד",
+    "strong": "H5057",
+    "morph": "He,Ncmsa",
+    "alignedText": "A leader",
+    "targetText": "ruler",
+    "targetAlignment": "A leader",
+    "sourceAlignment": "נָגִ֗יד",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "נָגִ֗יד",
+    "count": 1
+  },
+  {
+    "refs": [
+      "pro 29:2"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "c:b:H4910",
+    "morph": "He,C:R:Vqc",
+    "alignedText": "but when rules",
+    "targetText": "ruler",
+    "targetAlignment": "but when rules",
+    "sourceAlignment": "וּ⁠בִ⁠מְשֹׁ֥ל",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וּ⁠בִ⁠מְשֹׁ֥ל",
+    "count": 1
+  },
+  {
+    "refs": [
+      "pro 29:12"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "H4910",
+    "morph": "He,Vqrmsa",
+    "alignedText": "A ruler",
+    "targetText": "ruler",
+    "targetAlignment": "A ruler",
+    "sourceAlignment": "מֹ֭שֵׁל",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "מֹ֭שֵׁל",
+    "count": 1
+  },
+  {
+    "refs": [
+      "pro 29:26"
+    ],
+    "lemma": "מָשַׁל",
+    "strong": "H4910",
+    "morph": "He,Vqrmsa",
+    "alignedText": "a ruler",
+    "targetText": "ruler",
+    "targetAlignment": "a ruler",
+    "sourceAlignment": "מוֹשֵׁ֑ל",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "מוֹשֵׁ֑ל",
+    "count": 1
+  },
+  {
+    "refs": [
+      "pro 31:4"
+    ],
+    "lemma": "רָזַן",
+    "strong": "c:l:H7336",
+    "morph": "He,C:R:Vqrmpa",
+    "alignedText": "or for dignitaries",
+    "targetText": "ruler",
+    "targetAlignment": "or for dignitaries",
+    "sourceAlignment": "וּ֝⁠לְ⁠רוֹזְנִ֗ים",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "וּ֝⁠לְ⁠רוֹזְנִ֗ים",
+    "count": 1
+  },
+  {
+    "refs": [
+      "psa 119:133"
+    ],
+    "lemma": "שָׁלַט",
+    "strong": "H7980",
+    "morph": "He,Vhj3fs",
+    "alignedText": "do let rule",
+    "targetText": "ruler",
+    "targetAlignment": "do let rule",
+    "sourceAlignment": "תַּשְׁלֶט",
+    "category": "other",
+    "tWord": "ruler",
+    "quote": "תַּשְׁלֶט",
+    "count": 1
+  }
+]
