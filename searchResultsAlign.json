@@ -1,0 +1,1605 @@
+[
+  {
+    "count": 3,
+    "morph": "Gr,N,,,,,NMS,",
+    "refs": [
+      "luk 8:41",
+      "luk 18:18",
+      "jhn 3:1"
+    ],
+    "lemma": "ἄρχων",
+    "sourceText": "ἄρχων",
+    "strong": "G07580",
+    "targetText": "a ruler",
+    "targetsPos": [
+      "12 13",
+      "1 3",
+      "12 13"
+    ]
+  },
+  {
+    "count": 2,
+    "morph": "Gr,N,,,,,AMS,",
+    "refs": [
+      "act 7:27",
+      "act 7:35"
+    ],
+    "lemma": "ἄρχων",
+    "sourceText": "ἄρχοντα",
+    "strong": "G07580",
+    "targetText": "a ruler",
+    "targetsPos": [
+      "13 14",
+      "9 10",
+      "20 21"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Gr,N,,,,,AMS,",
+    "refs": [
+      "act 23:5"
+    ],
+    "lemma": "ἄρχων",
+    "sourceText": "ἄρχοντα",
+    "strong": "G07580",
+    "targetText": "of a ruler",
+    "targetsPos": [
+      "23 24 25"
+    ]
+  },
+  {
+    "count": 3,
+    "morph": "Gr,EA,,,,GMP, Gr,N,,,,,GMP,",
+    "refs": [
+      "luk 14:1",
+      "1co 2:6",
+      "1co 2:8"
+    ],
+    "lemma": "ὁ ἄρχων",
+    "sourceText": "τῶν ἀρχόντων",
+    "strong": "G35880 G07580",
+    "targetText": "of the rulers",
+    "targetsPos": [
+      "12 13 14",
+      "14 15 16",
+      "2 3 4"
+    ]
+  },
+  {
+    "count": 4,
+    "morph": "Gr,N,,,,,DMS,",
+    "refs": [
+      "mat 9:34",
+      "mat 12:24",
+      "mrk 3:22",
+      "luk 11:15"
+    ],
+    "lemma": "ἄρχων",
+    "sourceText": "ἄρχοντι",
+    "strong": "G07580",
+    "targetText": "ruler",
+    "targetsPos": [
+      "7",
+      "16",
+      "16",
+      "8"
+    ]
+  },
+  {
+    "count": 4,
+    "morph": "Gr,N,,,,,NMS,",
+    "refs": [
+      "jhn 12:31",
+      "jhn 14:30",
+      "jhn 16:11",
+      "rev 1:5"
+    ],
+    "lemma": "ἄρχων",
+    "sourceText": "ἄρχων",
+    "strong": "G07580",
+    "targetText": "ruler",
+    "targetsPos": [
+      "10",
+      "11",
+      "5",
+      "14"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Gr,N,,,,,AMS,",
+    "refs": [
+      "eph 2:2"
+    ],
+    "lemma": "ἄρχων",
+    "sourceText": "ἄρχοντα",
+    "strong": "G07580",
+    "targetText": "ruler",
+    "targetsPos": [
+      "15"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Gr,EA,,,,VMS, Gr,N,,,,,VMS,",
+    "refs": [
+      "rev 6:10"
+    ],
+    "lemma": "ὁ δεσπότης",
+    "sourceText": "ὁ Δεσπότης",
+    "strong": "G35880 G12030",
+    "targetText": "Ruler",
+    "targetsPos": [
+      "14"
+    ]
+  },
+  {
+    "count": 3,
+    "morph": "Gr,N,,,,,NMS,",
+    "refs": [
+      "rev 1:8",
+      "rev 4:8",
+      "rev 19:6"
+    ],
+    "lemma": "παντοκράτωρ",
+    "sourceText": "Παντοκράτωρ",
+    "strong": "G38410",
+    "targetText": "Ruler of All",
+    "targetsPos": [
+      "24 25 26",
+      "35 36 37",
+      "38 39 40"
+    ]
+  },
+  {
+    "count": 3,
+    "morph": "Gr,EA,,,,VMS, Gr,N,,,,,VMS,",
+    "refs": [
+      "rev 11:17",
+      "rev 15:3",
+      "rev 16:7"
+    ],
+    "lemma": "ὁ παντοκράτωρ",
+    "sourceText": "ὁ Παντοκράτωρ",
+    "strong": "G35880 G38410",
+    "targetText": "Ruler of All",
+    "targetsPos": [
+      "8 9 10",
+      "26 27 28",
+      "9 10 11"
+    ]
+  },
+  {
+    "count": 2,
+    "morph": "Gr,N,,,,,GMS,",
+    "refs": [
+      "rev 16:14",
+      "rev 19:15"
+    ],
+    "lemma": "παντοκράτωρ",
+    "sourceText": "Παντοκράτορος",
+    "strong": "G38410",
+    "targetText": "Ruler of All",
+    "targetsPos": [
+      "31 32 33",
+      "44 45 46"
+    ]
+  },
+  {
+    "count": 4,
+    "morph": "Gr,N,,,,,NMP,",
+    "refs": [
+      "mat 20:25",
+      "luk 23:35",
+      "jhn 7:26",
+      "act 4:26"
+    ],
+    "lemma": "ἄρχων",
+    "sourceText": "ἄρχοντες",
+    "strong": "G07580",
+    "targetText": "rulers",
+    "targetsPos": [
+      "12",
+      "8",
+      "12",
+      "10"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Gr,V,NPA,,,,,",
+    "refs": [
+      "mrk 10:42"
+    ],
+    "lemma": "ἄρχω",
+    "sourceText": "ἄρχειν",
+    "strong": "G07570",
+    "targetText": "rulers",
+    "targetsPos": [
+      "14"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Gr,N,,,,,AMP,",
+    "refs": [
+      "luk 1:52"
+    ],
+    "lemma": "δυνάστης",
+    "sourceText": "δυνάστας",
+    "strong": "G14130",
+    "targetText": "rulers",
+    "targetsPos": [
+      "4"
+    ]
+  },
+  {
+    "count": 2,
+    "morph": "Gr,N,,,,,AFP,",
+    "refs": [
+      "luk 12:11",
+      "col 2:15"
+    ],
+    "lemma": "ἀρχή",
+    "sourceText": "ἀρχὰς",
+    "strong": "G07460",
+    "targetText": "rulers",
+    "targetsPos": [
+      "10",
+      "3"
+    ]
+  },
+  {
+    "count": 2,
+    "morph": "Gr,N,,,,,AMP,",
+    "refs": [
+      "luk 23:13",
+      "act 16:19"
+    ],
+    "lemma": "ἄρχων",
+    "sourceText": "ἄρχοντας",
+    "strong": "G07580",
+    "targetText": "rulers",
+    "targetsPos": [
+      "9",
+      "22"
+    ]
+  },
+  {
+    "count": 4,
+    "morph": "Gr,EA,,,,NMP, Gr,N,,,,,NMP,",
+    "refs": [
+      "luk 24:20",
+      "act 3:17",
+      "act 13:27",
+      "rom 13:3"
+    ],
+    "lemma": "ὁ ἄρχων",
+    "sourceText": "οἱ ἄρχοντες",
+    "strong": "G35880 G07580",
+    "targetText": "rulers",
+    "targetsPos": [
+      "7",
+      "13",
+      "8",
+      "1"
+    ]
+  },
+  {
+    "count": 2,
+    "morph": "Gr,N,,,,,GMP,",
+    "refs": [
+      "jhn 7:48",
+      "jhn 12:42"
+    ],
+    "lemma": "ἄρχων",
+    "sourceText": "ἀρχόντων",
+    "strong": "G07580",
+    "targetText": "rulers",
+    "targetsPos": [
+      "3",
+      "6"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Gr,EA,,,,AMP, Gr,N,,,,,AMP,",
+    "refs": [
+      "act 4:5"
+    ],
+    "lemma": "ὁ ἄρχων",
+    "sourceText": "τοὺς ἄρχοντας",
+    "strong": "G35880 G07580",
+    "targetText": "rulers",
+    "targetsPos": [
+      "9"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Gr,EA,,,,DMP, Gr,N,,,,,DMP,",
+    "refs": [
+      "act 14:5"
+    ],
+    "lemma": "ὁ ἄρχων",
+    "sourceText": "τοῖς ἄρχουσιν",
+    "strong": "G35880 G07580",
+    "targetText": "rulers",
+    "targetsPos": [
+      "14"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Gr,N,,,,,AFP,",
+    "refs": [
+      "eph 6:12"
+    ],
+    "lemma": "ἀρχή",
+    "sourceText": "ἀρχάς",
+    "strong": "G07460",
+    "targetText": "rulers",
+    "targetsPos": [
+      "12"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Gr,N,,,,,VMP,",
+    "refs": [
+      "act 4:8"
+    ],
+    "lemma": "ἄρχων",
+    "sourceText": "ἄρχοντες",
+    "strong": "G07580",
+    "targetText": "Rulers",
+    "targetsPos": [
+      "10"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Gr,N,,,,,NMS,",
+    "refs": [
+      "luk 13:14"
+    ],
+    "lemma": "ἀρχισυνάγωγος",
+    "sourceText": "ἀρχισυνάγωγος",
+    "strong": "G07520",
+    "targetText": "synagogue ruler",
+    "targetsPos": [
+      "3 4"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Gr,EA,,,,NMS, Gr,N,,,,,NMS,",
+    "refs": [
+      "rev 21:22"
+    ],
+    "lemma": "ὁ παντοκράτωρ",
+    "sourceText": "ὁ Παντοκράτωρ",
+    "strong": "G35880 G38410",
+    "targetText": "the Ruler of All",
+    "targetsPos": [
+      "11 12 13 14"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Gr,N,,,,,DFP,",
+    "refs": [
+      "tit 3:1"
+    ],
+    "lemma": "ἀρχή",
+    "sourceText": "ἀρχαῖς",
+    "strong": "G07460",
+    "targetText": "to rulers",
+    "targetsPos": [
+      "4 5"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Gr,EA,,,,DFP, Gr,N,,,,,DFP,",
+    "refs": [
+      "eph 3:10"
+    ],
+    "lemma": "ὁ ἀρχή",
+    "sourceText": "ταῖς ἀρχαῖς",
+    "strong": "G35880 G07460",
+    "targetText": "to the rulers",
+    "targetsPos": [
+      "15 16 17"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmsa",
+    "refs": [
+      "pro 29:12"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "מֹ֭שֵׁל",
+    "strong": "H4910",
+    "targetText": "A ruler",
+    "targetsPos": [
+      "0 1"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmsa",
+    "refs": [
+      "pro 29:26"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "מוֹשֵׁ֑ל",
+    "strong": "H4910",
+    "targetText": "a ruler",
+    "targetsPos": [
+      "8 9"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmsa",
+    "refs": [
+      "hab 1:14"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "מֹשֵׁ֥ל",
+    "strong": "H4910",
+    "targetText": "a ruler",
+    "targetsPos": [
+      "12 13"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,C:Ncmsa",
+    "refs": [
+      "exo 22:28"
+    ],
+    "lemma": "נָשִׂיא",
+    "sourceText": "וְ⁠נָשִׂ֥יא",
+    "strong": "c:H5387a",
+    "targetText": "a ruler of",
+    "targetsPos": [
+      "12 13 14"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,C:R:Ncmpc:Sp2mp",
+    "refs": [
+      "1sa 6:4"
+    ],
+    "lemma": "סֶרֶן",
+    "sourceText": "וּ⁠לְ⁠סַרְנֵי⁠כֶֽם",
+    "strong": "c:l:H5633a",
+    "targetText": "and for your rulers",
+    "targetsPos": [
+      "43 44 45 46"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Ar,C:Vhp3ms:Sp3ms",
+    "refs": [
+      "dan 2:48"
+    ],
+    "lemma": "שְׁלֵט",
+    "sourceText": "וְ⁠הַ֨שְׁלְטֵ֔⁠הּ",
+    "strong": "c:H7981",
+    "targetText": "and he made him ruler",
+    "targetsPos": [
+      "13 14 15 16 17"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,C:Vqrmpa",
+    "refs": [
+      "hab 1:10"
+    ],
+    "lemma": "רָזַן",
+    "sourceText": "וְ⁠רֹזְנִ֖ים",
+    "strong": "c:H7336",
+    "targetText": "and rulers",
+    "targetsPos": [
+      "4 5"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,C:Ncmpc",
+    "refs": [
+      "mic 3:1"
+    ],
+    "lemma": "קָצִין",
+    "sourceText": "וּ⁠קְצִינֵ֖י",
+    "strong": "c:H7101",
+    "targetText": "and rulers of",
+    "targetsPos": [
+      "9 10 11"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,C:Ncmpc",
+    "refs": [
+      "mic 3:9"
+    ],
+    "lemma": "קָצִין",
+    "sourceText": "וּ⁠קְצִינֵ֖י",
+    "strong": "c:H7101",
+    "targetText": "and rulers of you",
+    "targetsPos": [
+      "11 12 13 18"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,C:Vqrmsa",
+    "refs": [
+      "gen 45:8"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "וּ⁠מֹשֵׁ֖ל",
+    "strong": "c:H4910",
+    "targetText": "and the ruler",
+    "targetsPos": [
+      "26 27 28"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Ar,C:Ncmpd:Td",
+    "refs": [
+      "ezr 4:9"
+    ],
+    "lemma": "אֲפַרְסְכַי",
+    "sourceText": "וַ⁠אֲפַרְסַתְכָיֵ֞⁠א",
+    "strong": "c:H0671b",
+    "targetText": "and the rulers",
+    "targetsPos": [
+      "18 19 20"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,C:Td:Ncmpa",
+    "refs": [
+      "ezr 9:2"
+    ],
+    "lemma": "סָגָן",
+    "sourceText": "וְ⁠הַ⁠סְּגָנִ֗ים",
+    "strong": "c:d:H5461",
+    "targetText": "and the rulers",
+    "targetsPos": [
+      "33 34 35"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,C:Vqrmpa",
+    "refs": [
+      "psa 2:2"
+    ],
+    "lemma": "רָזַן",
+    "sourceText": "וְ⁠רוֹזְנִ֥ים",
+    "strong": "c:H7336",
+    "targetText": "and the rulers",
+    "targetsPos": [
+      "8 9 10"
+    ]
+  },
+  {
+    "count": 2,
+    "morph": "He,C:Ncmpc",
+    "refs": [
+      "1sa 6:12",
+      "1sa 29:2"
+    ],
+    "lemma": "סֶרֶן",
+    "sourceText": "וְ⁠סַרְנֵ֤י",
+    "strong": "c:H5633a",
+    "targetText": "And the rulers of",
+    "targetsPos": [
+      "31 32 33 34",
+      "0 1 2 3"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,C:Vqrmpc:Sp2fs",
+    "refs": [
+      "isa 60:17"
+    ],
+    "lemma": "נָגַשׂ",
+    "sourceText": "וְ⁠נֹגְשַׂ֖יִ⁠ךְ",
+    "strong": "c:H5065",
+    "targetText": "and your rulers",
+    "targetsPos": [
+      "33 35 36"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,C:Vqrmpc:Sp2ms",
+    "refs": [
+      "hos 13:10"
+    ],
+    "lemma": "שָׁפַט",
+    "sourceText": "וְ⁠שֹׁ֣פְטֶ֔י⁠ךָ",
+    "strong": "c:H8199",
+    "targetText": "and your rulers",
+    "targetsPos": [
+      "14 15 16"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmpc:Sp3fs",
+    "refs": [
+      "pro 28:2"
+    ],
+    "lemma": "שַׂר",
+    "sourceText": "שָׂרֶ֑י⁠הָ",
+    "strong": "H8269",
+    "targetText": "are its rulers",
+    "targetsPos": [
+      "7 8 9"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vpi2mp:Sn",
+    "refs": [
+      "psa 58:1"
+    ],
+    "lemma": "דָבַר",
+    "sourceText": "תְּדַבֵּר֑וּ⁠ן",
+    "strong": "H1696",
+    "targetText": "Do you rulers speak",
+    "targetsPos": [
+      "0 1 3 4"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Ar,C:Aampa",
+    "refs": [
+      "ezr 4:20"
+    ],
+    "lemma": "שַׁלִּיט",
+    "sourceText": "וְ⁠שַׁ֨לִּיטִ֔ין",
+    "strong": "c:H7990",
+    "targetText": "even rulers",
+    "targetsPos": [
+      "6 7"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,R:Ncmsa",
+    "refs": [
+      "1sa 25:30"
+    ],
+    "lemma": "נָגִיד",
+    "sourceText": "לְ⁠נָגִ֖יד",
+    "strong": "l:H5057",
+    "targetText": "for a ruler",
+    "targetsPos": [
+      "25 26 27"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,C:Vqrmsa",
+    "refs": [
+      "psa 22:28"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "וּ֝⁠מֹשֵׁ֗ל",
+    "strong": "c:H4910",
+    "targetText": "he is the ruler over",
+    "targetsPos": [
+      "6 7 8 9 10"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Ar,Vqi3ms",
+    "refs": [
+      "dan 5:7"
+    ],
+    "lemma": "שְׁלֵט",
+    "sourceText": "יִשְׁלַֽט",
+    "strong": "H7981",
+    "targetText": "he will be ruler",
+    "targetsPos": [
+      "52 53 54 57"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,C:Vqq3ms",
+    "refs": [
+      "dan 11:43"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "וּ⁠מָשַׁ֗ל",
+    "strong": "c:H4910",
+    "targetText": "He will become ruler",
+    "targetsPos": [
+      "0 1 2 3"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,C:Vhq3ms:Sp3mp",
+    "refs": [
+      "dan 11:39"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "וְ⁠הִמְשִׁילָ⁠ם֙",
+    "strong": "c:H4910",
+    "targetText": "He will make them rulers",
+    "targetsPos": [
+      "25 26 27 28 29"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncbpc:Sp3fs",
+    "refs": [
+      "hos 4:18"
+    ],
+    "lemma": "מָגֵן",
+    "sourceText": "מָגִנֶּֽי⁠הָ",
+    "strong": "H4043",
+    "targetText": "her rulers",
+    "targetsPos": [
+      "11 12"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmpc:Sp3ms",
+    "refs": [
+      "isa 52:5"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "מֹשְׁלָ֤יו",
+    "strong": "H4910",
+    "targetText": "His rulers",
+    "targetsPos": [
+      "18 19"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmsa",
+    "refs": [
+      "pro 28:15"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "מֹשֵׁ֥ל",
+    "strong": "H4910",
+    "targetText": "is a ruler",
+    "targetsPos": [
+      "7 8 10"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Aamsa",
+    "refs": [
+      "ecc 8:8"
+    ],
+    "lemma": "שַׁלִּיט",
+    "sourceText": "שַׁלִּ֤יט",
+    "strong": "H7989",
+    "targetText": "is a ruler",
+    "targetsPos": [
+      "2 3 4"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Ar,Aamsa",
+    "refs": [
+      "dan 4:17"
+    ],
+    "lemma": "שַׁלִּיט",
+    "sourceText": "שַׁלִּ֨יט",
+    "strong": "H7990",
+    "targetText": "is ruler",
+    "targetsPos": [
+      "29 30"
+    ]
+  },
+  {
+    "count": 2,
+    "morph": "Ar,Aamsa",
+    "refs": [
+      "dan 4:25",
+      "dan 4:32"
+    ],
+    "lemma": "שַׁלִּיט",
+    "sourceText": "שַׁלִּ֤יט",
+    "strong": "H7990",
+    "targetText": "is ruler",
+    "targetsPos": [
+      "55 56",
+      "43 44"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Ar,Aamsa",
+    "refs": [
+      "dan 5:21"
+    ],
+    "lemma": "שַׁלִּיט",
+    "sourceText": "שַׁלִּ֞יט",
+    "strong": "H7990",
+    "targetText": "is ruler",
+    "targetsPos": [
+      "53 54"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmsa",
+    "refs": [
+      "gen 45:26"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "מֹשֵׁ֖ל",
+    "strong": "H4910",
+    "targetText": "is the ruler",
+    "targetsPos": [
+      "14 15 16"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmpc:Sp3ms",
+    "refs": [
+      "jer 8:1"
+    ],
+    "lemma": "שַׂר",
+    "sourceText": "שָׂרָי⁠ו֩",
+    "strong": "H8269",
+    "targetText": "its rulers",
+    "targetsPos": [
+      "23 24"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmpa",
+    "refs": [
+      "jdg 5:3"
+    ],
+    "lemma": "רָזַן",
+    "sourceText": "רֹֽזְנִ֑ים",
+    "strong": "H7336",
+    "targetText": "O rulers",
+    "targetsPos": [
+      "5 6"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmsa",
+    "refs": [
+      "ecc 9:17"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "מוֹשֵׁ֖ל",
+    "strong": "H4910",
+    "targetText": "of a ruler",
+    "targetsPos": [
+      "13 14 15"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmpc:Sp3mp",
+    "refs": [
+      "psa 105:30"
+    ],
+    "lemma": "מֶלֶךְ",
+    "sourceText": "מַלְכֵי⁠הֶֽם",
+    "strong": "H4428",
+    "targetText": "of their rulers",
+    "targetsPos": [
+      "9 10 11"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,C:Vqrmsa",
+    "refs": [
+      "pro 6:7"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "וּ⁠מֹשֵֽׁל",
+    "strong": "c:H4910",
+    "targetText": "or ruler",
+    "targetsPos": [
+      "5 6"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmpc:Sp1cp",
+    "refs": [
+      "dan 9:12"
+    ],
+    "lemma": "שָׁפַט",
+    "sourceText": "שֹֽׁפְטֵ֨י⁠נוּ֙",
+    "strong": "H8199",
+    "targetText": "our rulers",
+    "targetsPos": [
+      "12 13"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmsa",
+    "refs": [
+      "isa 3:6"
+    ],
+    "lemma": "קָצִין",
+    "sourceText": "קָצִ֖ין",
+    "strong": "H7101",
+    "targetText": "ruler",
+    "targetsPos": [
+      "19"
+    ]
+  },
+  {
+    "count": 2,
+    "morph": "",
+    "refs": [
+      "jer 51:46",
+      "mic 7:3"
+    ],
+    "lemma": "",
+    "sourceText": "",
+    "strong": "",
+    "targetText": "ruler",
+    "targetsPos": [
+      "45",
+      "9"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmsc",
+    "refs": [
+      "ezk 21:25"
+    ],
+    "lemma": "נָשִׂיא",
+    "sourceText": "נְשִׂ֖יא",
+    "strong": "H5387a",
+    "targetText": "ruler",
+    "targetsPos": [
+      "6"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmsa",
+    "refs": [
+      "zec 10:4"
+    ],
+    "lemma": "נָגַשׂ",
+    "sourceText": "נוֹגֵ֖שׂ",
+    "strong": "H5065",
+    "targetText": "ruler",
+    "targetsPos": [
+      "25"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "",
+    "refs": [
+      "jer 51:46"
+    ],
+    "lemma": "",
+    "sourceText": "",
+    "strong": "",
+    "targetText": "Ruler",
+    "targetsPos": [
+      "41"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,C:Vqrmsa",
+    "refs": [
+      "psa 105:21"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "וּ֝⁠מֹשֵׁ֗ל",
+    "strong": "c:H4910",
+    "targetText": "ruler of",
+    "targetsPos": [
+      "9 10"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmsc",
+    "refs": [
+      "isa 3:7"
+    ],
+    "lemma": "קָצִין",
+    "sourceText": "קְצִ֥ין",
+    "strong": "H7101",
+    "targetText": "ruler of",
+    "targetsPos": [
+      "32 33"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Td:Ncmsa He,Ncmsa",
+    "refs": [
+      "ezk 44:3"
+    ],
+    "lemma": "נָשִׂיא נָשִׂיא",
+    "sourceText": "הַ⁠נָּשִׂ֗יא נָ֥שִׂיא",
+    "strong": "d:H5387a H5387a",
+    "targetText": "ruler of Israel",
+    "targetsPos": [
+      "1 2 3"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmpa",
+    "refs": [
+      "gen 17:20"
+    ],
+    "lemma": "נָשִׂיא",
+    "sourceText": "נְשִׂיאִם֙",
+    "strong": "H5387a",
+    "targetText": "rulers",
+    "targetsPos": [
+      "28"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmpa",
+    "refs": [
+      "gen 25:16"
+    ],
+    "lemma": "נָשִׂיא",
+    "sourceText": "נְשִׂיאִ֖ם",
+    "strong": "H5387a",
+    "targetText": "rulers",
+    "targetsPos": [
+      "19"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Td:Ncmpa",
+    "refs": [
+      "1sa 6:18"
+    ],
+    "lemma": "סֶרֶן",
+    "sourceText": "הַ⁠סְּרָנִ֔ים",
+    "strong": "d:H5633a",
+    "targetText": "rulers",
+    "targetsPos": [
+      "19"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Td:Ncbpa",
+    "refs": [
+      "1ch 26:6"
+    ],
+    "lemma": "מִמְשָׁל",
+    "sourceText": "הַ⁠מִּמְשָׁלִ֖ים",
+    "strong": "d:H4474",
+    "targetText": "rulers",
+    "targetsPos": [
+      "8"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmpa",
+    "refs": [
+      "psa 119:23"
+    ],
+    "lemma": "שַׂר",
+    "sourceText": "שָׂ֭רִים",
+    "strong": "H8269",
+    "targetText": "rulers",
+    "targetsPos": [
+      "2"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Aampa",
+    "refs": [
+      "ecc 7:19"
+    ],
+    "lemma": "שַׁלִּיט",
+    "sourceText": "שַׁלִּיטִ֔ים",
+    "strong": "H7989",
+    "targetText": "rulers",
+    "targetsPos": [
+      "9"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmpa",
+    "refs": [
+      "isa 41:25"
+    ],
+    "lemma": "סָגָן",
+    "sourceText": "סְגָנִים֙",
+    "strong": "H5461",
+    "targetText": "rulers",
+    "targetsPos": [
+      "26"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmpa",
+    "refs": [
+      "isa 49:7"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "מֹשְׁלִ֔ים",
+    "strong": "H4910",
+    "targetText": "rulers",
+    "targetsPos": [
+      "24"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmpc",
+    "refs": [
+      "1sa 6:16"
+    ],
+    "lemma": "סֶרֶן",
+    "sourceText": "סַרְנֵֽי",
+    "strong": "H5633a",
+    "targetText": "rulers of",
+    "targetsPos": [
+      "3 4"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmpc",
+    "refs": [
+      "psa 2:10"
+    ],
+    "lemma": "שָׁפַט",
+    "sourceText": "שֹׁ֣פְטֵי",
+    "strong": "H8199",
+    "targetText": "rulers of",
+    "targetsPos": [
+      "7 8"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmpc",
+    "refs": [
+      "isa 1:10"
+    ],
+    "lemma": "קָצִין",
+    "sourceText": "קְצִינֵ֣י",
+    "strong": "H7101",
+    "targetText": "rulers of",
+    "targetsPos": [
+      "5 6"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmpc",
+    "refs": [
+      "isa 28:14"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "מֹֽשְׁלֵי֙",
+    "strong": "H4910",
+    "targetText": "rulers of",
+    "targetsPos": [
+      "9 10"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmsa",
+    "refs": [
+      "exo 2:14"
+    ],
+    "lemma": "שַׂר",
+    "sourceText": "שַׂ֤ר",
+    "strong": "H8269",
+    "targetText": "the ruler",
+    "targetsPos": [
+      "7 8"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Td:Ncmsa",
+    "refs": [
+      "ezr 1:8"
+    ],
+    "lemma": "נָשִׂיא",
+    "sourceText": "הַ⁠נָּשִׂ֖יא",
+    "strong": "d:H5387a",
+    "targetText": "the ruler",
+    "targetsPos": [
+      "23 24"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmsc",
+    "refs": [
+      "psa 105:20"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "מֹשֵׁ֥ל",
+    "strong": "H4910",
+    "targetText": "the ruler",
+    "targetsPos": [
+      "7 8"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Td:Vqrmsa",
+    "refs": [
+      "ecc 10:4"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "הַ⁠מּוֹשֵׁל֙",
+    "strong": "d:H4910",
+    "targetText": "the ruler",
+    "targetsPos": [
+      "4 5"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Ar,Aamsa",
+    "refs": [
+      "dan 5:29"
+    ],
+    "lemma": "שַׁלִּיט",
+    "sourceText": "שַׁלִּ֛יט",
+    "strong": "H7990",
+    "targetText": "the ruler",
+    "targetsPos": [
+      "31 33"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmsc",
+    "refs": [
+      "gen 34:2"
+    ],
+    "lemma": "נָשִׂיא",
+    "sourceText": "נְשִׂ֣יא",
+    "strong": "H5387a",
+    "targetText": "the ruler of",
+    "targetsPos": [
+      "8 9 10"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,R:Ncmsc",
+    "refs": [
+      "ezk 28:2"
+    ],
+    "lemma": "נָגִיד",
+    "sourceText": "לִ⁠נְגִ֨יד",
+    "strong": "l:H5057",
+    "targetText": "the ruler of",
+    "targetsPos": [
+      "5 6 7"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Td:Ncmpa",
+    "refs": [
+      "1sa 29:6"
+    ],
+    "lemma": "סֶרֶן",
+    "sourceText": "הַ⁠סְּרָנִ֖ים",
+    "strong": "d:H5633a",
+    "targetText": "the rulers",
+    "targetsPos": [
+      "59 60"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Td:Vqrmpa",
+    "refs": [
+      "2ch 23:20"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "הַ⁠מּֽוֹשְׁלִ֨ים",
+    "strong": "d:H4910",
+    "targetText": "the rulers",
+    "targetsPos": [
+      "13 14"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmpa",
+    "refs": [
+      "isa 14:5"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "מֹשְׁלִֽים",
+    "strong": "H4910",
+    "targetText": "the rulers",
+    "targetsPos": [
+      "11 12"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmpc",
+    "refs": [
+      "ezk 22:6"
+    ],
+    "lemma": "נָשִׂיא",
+    "sourceText": "נְשִׂיאֵ֣י",
+    "strong": "H5387a",
+    "targetText": "The rulers",
+    "targetsPos": [
+      "1 2"
+    ]
+  },
+  {
+    "count": 4,
+    "morph": "He,Ncmpc",
+    "refs": [
+      "jos 13:3",
+      "jdg 16:18",
+      "1sa 5:11",
+      "1sa 6:4"
+    ],
+    "lemma": "סֶרֶן",
+    "sourceText": "סַרְנֵ֣י",
+    "strong": "H5633a",
+    "targetText": "the rulers of",
+    "targetsPos": [
+      "25 27 28",
+      "39 40 41",
+      "6 7 8",
+      "30 31 32"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,To He,Ncmpc",
+    "refs": [
+      "1sa 5:8"
+    ],
+    "lemma": "אֵת סֶרֶן",
+    "sourceText": "אֶת סַרְנֵ֨י",
+    "strong": "H0853 H5633a",
+    "targetText": "the rulers of",
+    "targetsPos": [
+      "7 8 9"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmpc",
+    "refs": [
+      "1sa 7:7"
+    ],
+    "lemma": "סֶרֶן",
+    "sourceText": "סַרְנֵֽי",
+    "strong": "H5633a",
+    "targetText": "the rulers of",
+    "targetsPos": [
+      "15 16 17"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmpc",
+    "refs": [
+      "1sa 29:7"
+    ],
+    "lemma": "סֶרֶן",
+    "sourceText": "סַרְנֵ֥י",
+    "strong": "H5633a",
+    "targetText": "the rulers of",
+    "targetsPos": [
+      "17 18 19"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmpc",
+    "refs": [
+      "isa 40:23"
+    ],
+    "lemma": "שָׁפַט",
+    "sourceText": "שֹׁ֥פְטֵי",
+    "strong": "H8199",
+    "targetText": "the rulers of",
+    "targetsPos": [
+      "7 8 9"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmpc",
+    "refs": [
+      "isa 16:8"
+    ],
+    "lemma": "בַּעַל",
+    "sourceText": "בַּעֲלֵ֤י",
+    "strong": "H1167",
+    "targetText": "The rulers of",
+    "targetsPos": [
+      "13 14 15"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,R:Ncmsa",
+    "refs": [
+      "1sa 9:16"
+    ],
+    "lemma": "נָגִיד",
+    "sourceText": "לְ⁠נָגִיד֙",
+    "strong": "l:H5057",
+    "targetText": "to be ruler",
+    "targetsPos": [
+      "21 22 23"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,R:Ncmsa",
+    "refs": [
+      "1sa 10:1"
+    ],
+    "lemma": "נָגִיד",
+    "sourceText": "לְ⁠נָגִֽיד",
+    "strong": "l:H5057",
+    "targetText": "to be ruler",
+    "targetsPos": [
+      "27 28 29"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vta",
+    "refs": [
+      "num 16:13"
+    ],
+    "lemma": "שָׂרַר",
+    "sourceText": "הִשְׂתָּרֵֽר",
+    "strong": "H8323",
+    "targetText": "to make yourself ruler",
+    "targetsPos": [
+      "35 36 37 38"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vqrmsc",
+    "refs": [
+      "isa 16:1"
+    ],
+    "lemma": "מָשַׁל",
+    "sourceText": "מֹשֵֽׁל",
+    "strong": "H4910",
+    "targetText": "to the ruler of",
+    "targetsPos": [
+      "3 4 5 6"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmpc",
+    "refs": [
+      "ezk 19:11"
+    ],
+    "lemma": "שֵׁבֶט",
+    "sourceText": "שִׁבְטֵי֙",
+    "strong": "H7626",
+    "targetText": "used for rulers scepters",
+    "targetsPos": [
+      "6 7 8 9"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,R He,Vqrmsa",
+    "refs": [
+      "pro 23:1"
+    ],
+    "lemma": "אֵת מָשַׁל",
+    "sourceText": "אֶת מוֹשֵׁ֑ל",
+    "strong": "H0854 H4910",
+    "targetText": "with a ruler",
+    "targetsPos": [
+      "5 6 7"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Vti2ms",
+    "refs": [
+      "num 16:13"
+    ],
+    "lemma": "שָׂרַר",
+    "sourceText": "תִשְׂתָּרֵ֥ר",
+    "strong": "H8323",
+    "targetText": "you have made yourself ruler",
+    "targetsPos": [
+      "27 28 29 30 31"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "Ar,Vqi2ms",
+    "refs": [
+      "dan 5:16"
+    ],
+    "lemma": "שְׁלֵט",
+    "sourceText": "תִּשְׁלַֽט",
+    "strong": "H7981",
+    "targetText": "you will be ruler",
+    "targetsPos": [
+      "48 49 50 53"
+    ]
+  },
+  {
+    "count": 1,
+    "morph": "He,Ncmpc:Sp2fs",
+    "refs": [
+      "isa 22:3"
+    ],
+    "lemma": "קָצִין",
+    "sourceText": "קְצִינַ֥יִ⁠ךְ",
+    "strong": "H7101",
+    "targetText": "your rulers",
+    "targetsPos": [
+      "1 2"
+    ]
+  }
+]
